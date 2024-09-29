@@ -1,6 +1,6 @@
 h1 {
     color: white;
-    padding-left: 20px
+    padding-left: 20px;
 }
 
 body {
@@ -15,23 +15,23 @@ body {
     color: yellowgreen;
     list-style-type: none;
     font-size: 25px;
-    padding-left: 20px
+    padding-left: 20px;
 }
 
 
 ol {
     color: white;
-    padding-left: 20px
+    padding-left: 20px;
 }
 
 ul {
     color: white;
     font-size: 15px;
     list-style: upper-latin;
-    padding-left: 20px
+    padding-left: 20px;
 }
 
 .ulpetit {
     list-style: disc;
-    padding-left: 20px
+    padding-left: 20px;
 }
