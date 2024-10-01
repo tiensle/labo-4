@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-    background-image: url("images/ville.jpg");
+    background-image: url("/images/ville.jpg");
     font-family: arial, sans-serif;
     background-size: cover;
     background-position: center;
